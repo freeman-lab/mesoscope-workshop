@@ -1,0 +1,3 @@
+showit >= 1.1.1
+mesoscope >= 1.0.0
+thunder-python >= 1.4.0
