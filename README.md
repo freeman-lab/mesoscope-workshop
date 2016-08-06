@@ -12,7 +12,7 @@ You can use Binder to run a hosted version of this tutorial. Just click this bad
 
 ## running locally
 
-To run these notebooks locally, first make sure you have a recent version of Python 3 — we highly recommend using Anaconda.
+To run these notebooks locally, first make sure you have a recent version of Python 3 — we highly recommend using [Anaconda](https://www.continuum.io/downloads), a distribution of Python that comes bundled with common scientific computing libraries.
 
 Then clone this repository by typing
 
