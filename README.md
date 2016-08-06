@@ -8,7 +8,7 @@ This repository contains a collection of Jupyter notebooks, alongside sample dat
 
 You can use Binder to run a hosted version of this tutorial. Just click this badge.
 
-[![Binder](https://img.shields.io/badge/launch-binder-red.svg?style=flat-square)](http://mybinder.org:/repo/freeman-lab/mesoscope-workshop)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/freeman-lab/mesoscope-workshop)
 
 ## running locally
 
