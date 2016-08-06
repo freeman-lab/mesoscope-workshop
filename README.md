@@ -2,7 +2,7 @@
 
 > notebooks for workshop on analyzing data from the two-photon mesoscope
 
-This repository contains a collection of Jupyter notebooks, alongside sample data, for demonstrating some basic analyses of mesoscope data. It includes basic data processing and conversion using the [`mesoscope`](https://github.com/sofroniewn/mesoscope) package, as well as analysis of both low magnification and high magnification data using [`thunder`](https://github.com/thunder-project/thunder), [`thunder-extraction`](https://github.com/thunder-project/thunder-extraction), and [`thunder-registration`](https://github.com/thunder-project/thunder-registration).
+This repository contains a collection of Jupyter notebooks, alongside sample data, for demonstrating some basic analyses of [`mesoscope`](https://elifesciences.org/content/5/e14472) data. It includes basic data processing and conversion using the [`mesoscope`](https://github.com/sofroniewn/mesoscope) package, as well as analysis of both low magnification and high magnification data using [`thunder`](https://github.com/thunder-project/thunder), [`thunder-extraction`](https://github.com/thunder-project/thunder-extraction), and [`thunder-registration`](https://github.com/thunder-project/thunder-registration).
 
 ## running remotely
 
